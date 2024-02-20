@@ -1,0 +1,28 @@
+# 入社時の手続き
+
+<!-- TOC -->
+
+- [雇用保険](##雇用保険)
+    - [Overview](#overview)
+    - [User access control](#user-access-control)
+        - [Common header definition](#common-header-definition)
+        - [Parameter Explanation](#parameter-explanation)
+            - [How to sort](#how-to-sort)
+        - [cURL sample](#curl-sample)
+        - [Common response object](#common-response-object)
+    - [TOC for APIs](#toc-for-apis)
+    - [Considerations](#considerations)
+
+<!-- /TOC -->
+
+
+
+
+## 雇用保険
+- 雇用保険被保険者資格取得届を記載する。
+  - 
+- ハローワーク沖縄に提出する
+  - 住所    
+    - 〒904-0003 沖縄県沖縄市住吉１丁目２３−１
+  - 宛先
+    - 雇用保険適用課
